@@ -1,3 +1,4 @@
+## Hi, my name is Timon Losute
 # 💫 About Me:
 🌱 I’m currently learning ML/AI and exploring its applications in healthcare and finance.<br>⚡ Fun fact: I’m always up for a coding challenge, and I love solving problems until they are cracked!
 
